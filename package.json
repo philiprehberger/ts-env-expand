@@ -1,6 +1,6 @@
 {
   "name": "@philiprehberger/env-expand",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Interpolate variables within environment values",
   "keywords": [
     "env",
@@ -48,7 +48,8 @@
     "build": "tsup",
     "dev": "tsup --watch",
     "typecheck": "tsc --noEmit",
-    "test": "node --test"
+    "test": "node --test",
+    "prepublishOnly": "npm run build"
   },
   "devDependencies": {
     "@types/node": "^22.0.0",
