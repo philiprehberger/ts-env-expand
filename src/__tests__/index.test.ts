@@ -5,7 +5,7 @@ import {
   expandString,
   CircularReferenceError,
   MissingVariableError,
-} from '../dist/index.js';
+} from '../../dist/index.js';
 
 describe('expand', () => {
   it('should expand ${VAR} references', () => {
