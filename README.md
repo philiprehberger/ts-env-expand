@@ -6,10 +6,6 @@
 
 Interpolate variables within environment values. Supports `${VAR}`, `$VAR`, default values, alternate values, required values, and circular reference detection
 
-## Requirements
-
-- Node.js >= 18
-
 ## Installation
 
 ```bash
@@ -18,7 +14,7 @@ npm install @philiprehberger/env-expand
 
 ## Usage
 
-```typescript
+```ts
 import { expand, expandString } from '@philiprehberger/env-expand';
 
 // Expand all variable references in an env record
