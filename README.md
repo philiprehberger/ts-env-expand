@@ -3,6 +3,7 @@
 [![CI](https://github.com/philiprehberger/ts-env-expand/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/ts-env-expand/actions/workflows/ci.yml)
 [![npm version](https://img.shields.io/npm/v/@philiprehberger/env-expand.svg)](https://www.npmjs.com/package/@philiprehberger/env-expand)
 [![License](https://img.shields.io/github/license/philiprehberger/ts-env-expand)](LICENSE)
+[![Sponsor](https://img.shields.io/badge/sponsor-GitHub%20Sponsors-ec6cb9)](https://github.com/sponsors/philiprehberger)
 
 Interpolate variables within environment values. Supports `${VAR}`, `$VAR`, default values, alternate values, required values, and circular reference detection
 
