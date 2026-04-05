@@ -1,8 +1,8 @@
 # @philiprehberger/env-expand
 
-[![CI](https://github.com/philiprehberger/env-expand/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/env-expand/actions/workflows/ci.yml)
+[![CI](https://github.com/philiprehberger/ts-env-expand/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/ts-env-expand/actions/workflows/ci.yml)
 [![npm version](https://img.shields.io/npm/v/@philiprehberger/env-expand.svg)](https://www.npmjs.com/package/@philiprehberger/env-expand)
-[![Last updated](https://img.shields.io/github/last-commit/philiprehberger/env-expand)](https://github.com/philiprehberger/env-expand/commits/main)
+[![Last updated](https://img.shields.io/github/last-commit/philiprehberger/ts-env-expand)](https://github.com/philiprehberger/ts-env-expand/commits/main)
 
 Interpolate variables within environment values. Supports `${VAR}`, `$VAR`, default values, alternate values, required values, and circular reference detection
 
@@ -110,11 +110,11 @@ npm test
 
 If you find this project useful:
 
-⭐ [Star the repo](https://github.com/philiprehberger/env-expand)
+⭐ [Star the repo](https://github.com/philiprehberger/ts-env-expand)
 
-🐛 [Report issues](https://github.com/philiprehberger/env-expand/issues?q=is%3Aissue+is%3Aopen+label%3Abug)
+🐛 [Report issues](https://github.com/philiprehberger/ts-env-expand/issues?q=is%3Aissue+is%3Aopen+label%3Abug)
 
-💡 [Suggest features](https://github.com/philiprehberger/env-expand/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
+💡 [Suggest features](https://github.com/philiprehberger/ts-env-expand/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
 
 ❤️ [Sponsor development](https://github.com/sponsors/philiprehberger)
 
